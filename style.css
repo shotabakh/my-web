@@ -34,6 +34,9 @@ nav a {
     padding: 20px;
 }
 aside {
+    <figure>
+      <img src="/photo/1000000716.jpg" >
+    </figure>
     background: blue;
     padding: 20px;
     border-radius: 10px;
