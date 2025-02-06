@@ -34,15 +34,13 @@ nav a {
     padding: 20px;
 }
 aside {
-    <figure>
-      <img src="/photo/1000000716.jpg" >
-    </figure>
-    background: blue;
+    
+    background: rgba(0, 0, 255, 0.336) ;
     padding: 20px;
     border-radius: 10px;
 }
 main {
-    background: rgba(114, 31, 131, 0.521);
+    background: rgba(114, 31, 131, 0.336);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
