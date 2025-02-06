@@ -39,7 +39,7 @@ aside {
     border-radius: 10px;
 }
 main {
-    background: pink;
+    background: rgba(114, 31, 131, 0.521);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -50,7 +50,7 @@ figure img {
 }
 footer {
     background: #333;
-    color: white;
+    color: rgb(78, 78, 78);
     text-align: center;
     padding: 10px;
 }
