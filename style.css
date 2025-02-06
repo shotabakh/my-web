@@ -1,18 +1,16 @@
 body {
-
+    
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    <figure>
-        <img src="/photo/server.avif">
-    </figure>
+    background-image: url('photo/server.avif');
     display: grid;
     grid-template-rows: auto auto 1fr auto;
     height: 100vh;
 }
  header {
-    background: rgb(1, 255, 1);
-    color: rgb(61, 59, 59);
+    background-image: url('photo/codeblauw.jpg');
+    color: rgb(255, 255, 255);
     text-align: center;
     padding: 15px;
     font-size: 1.5em;
@@ -38,12 +36,12 @@ nav a {
 }
 aside {
     
-    background: rgba(0, 0, 255, 0.336) ;
+    background: rgba(54, 54, 54, 0.800) ;
     padding: 20px;
     border-radius: 10px;
 }
 main {
-    background: rgba(114, 31, 131, 0.336);
+    background: rgba(54, 54, 54, 0.8);
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 0 10px rgba(0,0,0,0.1);
@@ -53,8 +51,8 @@ figure img {
     border-radius: 10px;
 }
 footer {
-    background: #333;
-    color: rgb(78, 78, 78);
+    background: #222222;
+    color: rgb(255, 251, 251);
     text-align: center;
     padding: 10px;
 }
