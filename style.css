@@ -9,14 +9,14 @@ body {
     height: 100vh;
 }
  header {
-    background-image: url('photo/codeblauw.jpg');
-    color: rgb(255, 255, 255);
+    background-image: url('photo/code.jpg');
+    color: rgb(238, 255, 0);
     text-align: center;
     padding: 15px;
-    font-size: 1.5em;
+    font-size: 1.4em;
 }
 nav {
-    background: rgb(255, 230, 0);
+    background: rgb(92, 92, 92);
     color: white;
     padding: 10px;
     text-align: center;
@@ -36,7 +36,7 @@ nav a {
 }
 aside {
     
-    background: rgba(54, 54, 54, 0.800) ;
+    background: rgba(54, 54, 54, 0.8) ;
     padding: 20px;
     border-radius: 10px;
 }
@@ -44,7 +44,7 @@ main {
     background: rgba(54, 54, 54, 0.8);
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgb(54, 54, 54);
 }
 figure img {
     width: 100%;
