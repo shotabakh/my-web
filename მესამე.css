@@ -42,10 +42,9 @@ aside {
     box-shadow: 0 0 10px rgba(255, 0, 0, 0.700);
 }
 main {
-    background: rgba(255, 255, 255, 0.700);
+    background: rgba(255, 255, 255, 0.452);
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(255, 0, 0, 0.700);
 }
 figure img {
     width: 100%;

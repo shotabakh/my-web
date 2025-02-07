@@ -36,16 +36,16 @@ nav a {
 }
 aside {
     
-    background: rgba(255, 122, 122, 0.918) ;
+    background: rgba(43, 43, 43, 0.918) ;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(255, 0, 0, 0.700);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.7);
 }
 main {
     background: rgba(255, 255, 255, 0.700);
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 10px rgba(255, 0, 0, 0.700);
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.7);
 }
 figure img {
     width: 100%;
